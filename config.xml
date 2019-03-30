@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.primarasa.counter" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>primarasapush</name>
+<widget id="com.primarasa.counter" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://primarasa.com/ns/1.0">
+    <name>Prima Rasa</name>
     <description>
         Push sample application that receives push notifications.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
+    <author email="support@primarasa.com" href="http://primarasa.com">
         vbCorp
     </author>
     <allow-navigation href="*" />
