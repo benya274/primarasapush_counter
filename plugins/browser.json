@@ -8,20 +8,20 @@
     },
     "installed_plugins": {
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.primarasa.push"
+            "PACKAGE_NAME": "com.primarasa.logCounter"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "XXXXXXX",
-            "PACKAGE_NAME": "com.primarasa.push"
+            "PACKAGE_NAME": "com.primarasa.logCounter"
         },
         "cordova-plugin-console": {
-            "PACKAGE_NAME": "com.primarasa.push"
+            "PACKAGE_NAME": "com.primarasa.logCounter"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.primarasa.push"
+            "PACKAGE_NAME": "com.primarasa.logCounter"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.primarasa.push"
+            "PACKAGE_NAME": "com.primarasa.logCounter"
         }
     },
     "dependent_plugins": {}
